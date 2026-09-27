@@ -15,7 +15,7 @@ This dashboard identifies which customer segments are most likely to churn and q
 
 ## 🖼️ Dashboard Preview
 
-![Churn Dashboard](./Screenshots/churn-dashboard-overview.png)
+![Churn Dashboard](./Screenshot/churn-dashboard-overview.png)
 
 *(Rename your screenshot in the `Screenshots` folder to match the filename above, or edit this path to match your actual filename.)*
 
